@@ -82,7 +82,7 @@ android {
 
     defaultConfig {
         applicationId = "com.ozyern.exhale"
-        minSdk = 33
+        minSdk = 31
         targetSdk = 36
         versionCode = 506
         versionName = "1.0.506"
